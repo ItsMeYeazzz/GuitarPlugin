@@ -1,0 +1,8 @@
+name: GuitarPlugin
+version: 1.0.0
+main: com.gmail.perhapsitisyeazz.GuitarPlugin
+api-version: 1.15
+authors: [YeaZz_]
+default-permission: true
+description: 'GuitarPlugin'
+depend: [NoteBlockAPI]
